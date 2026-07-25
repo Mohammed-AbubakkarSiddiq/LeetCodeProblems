@@ -8,7 +8,7 @@
 | 2 | [Palindrome](https://leetcode.com/problems/palindrome-number/) | Easy | [C#](https://github.com/Mohammed-AbubakkarSiddiq/LeetCodeProblems/tree/main/Easy/Palindrome) | [Click Here](https://leetcode.com/problems/palindrome-number/solutions/8402593/palindrome-number-by-mohammed_abubakkar_-we0c/) |
 | 3 | [Roman To Int](https://leetcode.com/problems/roman-to-integer/description/) | Easy | [C#](https://github.com/Mohammed-AbubakkarSiddiq/LeetCodeProblems/tree/main/Easy/RomanToInt) | [Click Here](https://leetcode.com/problems/roman-to-integer/solutions/8402987/roman-numbers-to-integer-by-mohammed_abu-sjgx/) |
 | 4 | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [C#](https://github.com/Mohammed-AbubakkarSiddiq/LeetCodeProblems/tree/main/Easy/RemoveDuplicateFromIntArray) | [Click Here](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/8411674/remove-duplicates-from-sorted-array-by-m-mlhq/) |
-| 5 | [Max product](https://leetcode.com/problems/maximum-product-of-two-digits/description/) | Easy | [C#] | [Click Here](https://leetcode.com/problems/maximum-product-of-two-digits/solutions/8418907/max-product-by-mohammed_abubakkar_siddiq-mbgq/) |
+| 5 | [Max product](https://leetcode.com/problems/maximum-product-of-two-digits/description/) | Easy | [C#] (https://github.com/Mohammed-AbubakkarSiddiq/LeetCodeProblems/tree/main/Easy/MaxProduct) | [Click Here](https://leetcode.com/problems/maximum-product-of-two-digits/solutions/8418907/max-product-by-mohammed_abubakkar_siddiq-mbgq/) |
 
 
 # SQL
@@ -16,3 +16,7 @@
 | S.No | Problem | Category | Submission |
 |------|---------|----------|------------|
 | 1 | [CombineTable](https://leetcode.com/problems/combine-two-tables/) | Easy | [Click Here](https://leetcode.com/problems/combine-two-tables/solutions/8418987/combine-tables-by-mohammed_abubakkar_sid-ayhj/) |
+| 2 | [EmployeeBonus](https://leetcode.com/problems/employee-bonus/) | Easy | [Click Here](https://leetcode.com/problems/employee-bonus/solutions/8419054/employee-bonus-by-mohammed_abubakkar_sid-ukkk/) |
+| 3 | [GamePlayAnalysis](https://leetcode.com/problems/game-play-analysis-i/) | Easy | [Click Here](https://leetcode.com/problems/game-play-analysis-i/solutions/8419132/game-play-analysis-by-mohammed_abubakkar-hi1t/) |
+
+
