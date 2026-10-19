@@ -9,7 +9,7 @@
 | 3 | [Roman To Int](https://leetcode.com/problems/roman-to-integer/description/) | Easy | [C#](https://github.com/Mohammed-AbubakkarSiddiq/LeetCodeProblems/tree/main/Easy/RomanToInt) | [Click Here](https://leetcode.com/problems/roman-to-integer/solutions/8402987/roman-numbers-to-integer-by-mohammed_abu-sjgx/) |
 | 4 | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [C#](https://github.com/Mohammed-AbubakkarSiddiq/LeetCodeProblems/tree/main/Easy/RemoveDuplicateFromIntArray) | [Click Here](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/8411674/remove-duplicates-from-sorted-array-by-m-mlhq/) |
 | 5 | [Max product](https://leetcode.com/problems/maximum-product-of-two-digits/description/) | Easy | [C#](https://github.com/Mohammed-AbubakkarSiddiq/LeetCodeProblems/tree/main/Easy/MaxProduct) | [Click Here](https://leetcode.com/problems/maximum-product-of-two-digits/solutions/8418907/max-product-by-mohammed_abubakkar_siddiq-mbgq/) |
-
+| 6 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [C#](https://github.com/Mohammed-AbubakkarSiddiq/LeetCodeProblems/tree/main/Easy/LongestCommonPrefix) | [Click Here](https://leetcode.com/problems/longest-common-prefix/solutions/8578770/longest-common-prefix-by-mohammed_abubak-ifxj/) |
 
 # SQL
 
